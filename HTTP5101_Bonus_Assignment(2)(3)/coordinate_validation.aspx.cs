@@ -26,7 +26,7 @@ namespace HTTP5101_Bonus_Assignment_2__3_ {
                     } else if (Quadrant_check_x < 0 && Quadrant_check_y > 0) {
                         result_summary.InnerHtml += "Your points line in <strong>Quadrant 2</strong><br>";
                     } else {
-                        result_summary.InnerHtml += "Your points line in <strong>Quadrant 3</strong><br>";
+                        result_summary.InnerHtml += "Your points line in <strong>Quadrant 3</strong> <br> maitri";
                     }
                 }
             }
